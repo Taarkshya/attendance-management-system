@@ -1,1 +1,2 @@
 # Attendance Management System
+BLUETOOTH BASED ATTENDANCE MANAGEMENT SYSTEM
